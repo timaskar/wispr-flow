@@ -12,7 +12,7 @@
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone https://github.com/ВАШ_ЮЗЕРНЕЙМ/whisperflow.git
+git clone https://github.com/timaskar/wispr-flow.git
 cd whisperflow
 ```
 
